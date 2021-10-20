@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "img": "https://m.media-amazon.com/images/I/61uYt-GUYDL._AC_SL1500_.jpg",
+    "title": "Training bench",
+    "desc": "A basic but multi-purpose training bench is a must-have in your gym. Definitely suitable for beginners, the training bench is a diverse piece of equipment that serves it’s purpose for seniors and young athletes as well. It is used for performing weight training exercises or even sit-ups.",
+    "price": 29.99,
+    "provider": "John",
+    "rating": 5,
+    "brand":"China"
+  },
+  {
+    "id": 2,
+    "img": "http://sc04.alicdn.com/kf/HTB1JvJEaUjrK1RkHFNRq6ySvpXat.jpg",
+    "title": "Dumbbell set",
+    "desc": "An important necessity for beginners, young athletes and seniors. The dumbbell set should range from light to heavy in order to accommodate for everyone. Dumbbells come in a variety of sizes, shapes, and materials these days, from plastic-coated to colourful to straight-up metal, so take your pick. Get a set with a rack and save time and space, too.Dumbbell set",
+    "price": 34.79,
+    "provider": "Cena",
+    "rating": 4.2,
+    "count": "450",
+    "brand":"America"
+  },
+  {
+    "id": 3,
+    "img": " https://www.nautilus.com/dw/image/v2/AAYW_PRD/on/demandware.static/-/Sites-nautilus-master-catalog/default/dw3ae0f108/images/nautilus/ellipticals/e618/100656/nautilus-elliptical-e618-1.jpg?sw=700&sh=700&sm=fit",
+    "title": "Ellipticals",
+    "desc": " Considered one of the best commercial gym equipment because of its low-impact features. This means that less stress and tension is distributed to the joints and bones, therefore exercise-related injuries are less likely to occur.",
+    "price": 18.9,
+    "provider": "Mukit",
+    "rating": 4,
+    "count": "680",
+    "brand":"Russia"
+  },
+  {
+    "id": 4,
+    "img": "https://5.imimg.com/data5/TN/FX/NP/SELLER-3878841/x-90-commercial-treadmill-500x500.png ",
+    "title": "TreadMill",
+    "desc": "One of the widely popular commercial gym equipment. This equipment offers a great warm-up exercise before you indulge yourself in a hardcore, and more muscle and bone-stressing exercise machine. If you just want to shed off some weight and burn extra calories, this gym equipment will do the trick. ",
+    "price": 48.69,
+    "provider": "David",
+    "rating": 3.5,
+    "count": "350",
+    "brand":"Dubai"
+    
+  },
+  {
+    "id": 5,
+    "img": "https://cdn11.bigcommerce.com/s-zvhwp/images/stencil/1280x1280/products/474/10374/PCK_Set_12-16-20-kg__26686.1622043719.png?c=2",
+    "title": "Kettlebell Set",
+    "desc": "Kettlebells provide an alternative to dumbbells because they activate a slightly different muscle profile, particularly the core.1 Although not necessarily superior, they are popular and worth purchasing. Kettlebells come in a variety of weights, sizes, and even shapes.",
+    "price": 48.69,
+    "provider": "Tanjim",
+    "rating": 4.5,
+    "count": "560",
+    "brand":"Japan"
+  }
+  ,
+  {
+    "id": 6,
+    "img": "https://images.othoba.com/images/thumbs/0327275_wall-mounted-pull-up-bar-gym.jpeg",
+    "title": "Pullup Bar",
+    "desc": "pull-up bar is an easy-to-install and compact piece of equipment. Primarily used for building back strength, pull-up bars can be used for training the entire upper body and core muscles too.",
+    "price": 48.69,
+    "provider": "Biden",
+    "rating": 4.0,
+    "count": "500",
+    "brand":"China"
+  }
+]
