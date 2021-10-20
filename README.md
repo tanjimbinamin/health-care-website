@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Getting Started with My Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://fitnesia.netlify.app).
 
-## Available Scripts
+## Components
 
-In the project directory, you can run:
+To run this project , you have to download this file and install the npm packages. this is a gymnesiam service project. In this project , I have used Routing based components and authentication with email and passwords as well as google. 
 
-### `npm start`
+### `Components `
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+In this project , I have used many components to make the task easy. There are some shared components to show the header and navbar to all of the webpages. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### `Custom-Hooks`
 
-### `npm test`
+two custom hooks were made to easy the work be wraped by context api
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `Context-api`
 
-### `npm run build`
+Context api is used to wrap the full data. In react we know that the data only flows unidirectionally. Thus the context-api helps in this matters.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![use of context-api](https://miro.medium.com/max/2000/1*Jx8BCxZFN2SCuhQtZqfgMQ.jpeg)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `Authentication`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+In this project, I have used authentication system. there are two auth system is used in this project. One is with google other is password authentication.
+### `Private-Routing`
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Some routes have been declared as private . When you click the button to see the details of a gym machine, then you will be redirected to the login page asking for the authentication. Two more routes is also declared as a private. one is trainer another one is blog. 
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
