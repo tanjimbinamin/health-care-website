@@ -27,5 +27,8 @@ Context api is used to wrap the full data. In react we know that the data only f
 In this project, I have used authentication system. there are two auth system is used in this project. One is with google other is password authentication.
 ### `Private-Routing`
 
-Some routes have been declared as private . When you click the button to see the details of a gym machine, then you will be redirected to the login page asking for the authentication. Two more routes is also declared as a private. one is trainer another one is blog. 
+Some routes have been declared as private . When you click the button to see the details of a gym machine, then you will be redirected to the login page asking for the authentication. Two more routes is also declared as a private. one is 
+## trainer 
+another one is 
+## blog
 
